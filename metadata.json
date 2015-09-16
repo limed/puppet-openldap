@@ -1,0 +1,14 @@
+{
+  "name": "puppet-openldap",
+  "version": "0.1.0",
+  "author": "limed",
+  "summary": "Installs a basic openldap module",
+  "license": "MPL-2.0",
+  "source": "https://github.com/limed/puppet-openldap",
+  "project_page": "https://github.com/limed/puppet-openldap",
+  "issues_url": "https://github.com/limed/puppet-openldap/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
