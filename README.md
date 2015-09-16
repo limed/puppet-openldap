@@ -9,6 +9,7 @@
     * [Setup requirements](#setup-requirements)
     * [Beginning with openldap](#beginning-with-openldap)
 4. [Usage - Configuration options and additional functionality](#usage)
+5. [Limitations - OS compatibility, etc.](#limitations)
 
 ## Overview
 
@@ -50,3 +51,7 @@ for upgrading, you may wish to include an additional section here: Upgrading
 
 Put the classes, types, and resources for customizing, configuring, and doing
 the fancy stuff with your module here.
+
+## Limitation
+
+Will only work for RHEL based OS now, and also mostly works in the mozilla environment
